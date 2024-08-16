@@ -1,0 +1,138 @@
+		     ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+		     ³	    ßßßßÜ	  ßßßßÜ      ³ Û
+		     ³	      ÜÜß	    ÜÜß      ³ Û
+		     ³		Û   ßÜß       Û      ³ Û
+		     ³	    ßßßß    ß ß   ßßßß	     ³ Û
+		     ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ Û
+		      ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+					     Version 0.3
+					       Marzo '98
+
+ Introduccion ³
+ÍÄÍÄÍÄÍÄÍÄÍÄÍÄÙ
+
+  Que es esto??? Bueno, es un juego bastante tonto... asi que si estas
+  dispuesto a jugar, segui leyendo, sino segui con JTR... ;-)
+
+  Y aunque no lo creas... fue escrito 100% en QuickBasic!! Debe estar lleno de
+  bugs, sobre todo en la parte de los fades...  si encontras algo, no dudes en
+  avisarme... te voy a recompensar con un key ;-)
+
+  Esta	version  tiene	un  sistema de keyfiles. Si  usas el que viene	en  el
+  paquete,  se	supone que  vas a tener la  version no	registrada  de 3x3. La
+  unica diferencia  con la version  registrada es  UNREGISTERED! que se cambia
+  por Registered to tu nombre (o tu nick, o el de tu hermana, etc).
+
+  Para registrar tu copia, lo unico que tenes que hacer es mandarme un mensaje
+  a german@linuxfreak.com  contandome _todo_ lo que sea de vos. Quiero _todo_.
+  Si me gusto lo que escribiste  te voy a mandar  tu key (seguramente te voy a
+  ir preguntando mas cosas...)
+
+  Si no queres	mandar el mensaje,  crackea el programa  y hacete tu keyfile o
+  pasa	de largo la  proteccion. Pero si tenes	un poco de sentido  comun y no
+  queres parecer un lamm... send me da message...
+
+
+ Que es 3x3??? ³
+ÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÙ
+
+  Bueno, no, no es un 4x4 al que le faltaron unas cosas... es el clasico juego
+  del 3 en linea,  tateti, etc, pero como esos nombres ya fueron usados, no se
+  me  ocurrio otra cosa...  se puede leer  tres por tres, three by three, tres
+  equis elevado al cubo, etc... :-)
+
+ Que es lo que hace??? ³
+ÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÙ
+
+  Basicamente lo que hace es hacerte casi imposible ganarle algun partido.
+  Y si tenes la posibilidad, jugar contra otra persona.
+
+ Como se desarrolla el juego? ³
+ÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÙ
+
+  Una  vez que paso la pantalla de presentacion, tenes el menu. Elegi 1 player
+  para	un juego de 1  contra uno, 2  players para  jugar contra otra persona,
+  opciones para configurar el juego y Quit para salir.
+  Cuando  empezes un juego, vas a ver el clasico  cuadrado dividido  en  nueve
+  casilleros. Si por ejemplo queres jugar en el medio, apretas el 5. Si queres
+  jugar arriba en el medio, el 8. Es el cuadrado que forma el teclado numerico
+  Tip: NumLock enabled
+
+			       ÚÄÄÄÂÄÄÄÂÄÄÄ¿
+			       ³ 7 ³ 8 ³ 9 ³
+			       ÃÄÄÄÅÄÄÄÅÄÄÄ´
+			       ³ 4 ³ 5 ³ 6 ³
+			       ÃÄÄÄÅÄÄÄÅÄÄÄ´
+			       ³ 1 ³ 2 ³ 3 ³
+			       ÀÄÄÄÁÄÄÄÁÄÄÄÙ
+
+ Como hago para ganar? ³
+ÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÙ
+
+  Pone	tres fichas  tuyas en linea,  ya sea en  forma vertical,  horizontal u
+  oblicua.
+
+ Por que no se mueven las fichas? ³
+ÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÙ
+
+  Porque en  ese tipo de tateti, el que tiene el medio	siempre gana, y en 3x3
+  si los dos juegan bien, va a quedar  siempre empatado, asi que preferi hacer
+  este juego. No obstante, ya va a haber noticias.
+
+ Para que sirve esta porqueria? ³
+ÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÙ
+
+  Si sos una persona como yo, que se puede  pasar 5 o mas horas diarias frente
+  a la PC, puede ser que descargues tu bronca con ese maldito servidor de mail
+  que te da timeout  tratando de ganarle  algun partido. Eso si, la bronca que
+  te da no poder ganarle desquitatela rompiendo cosas, o algo por el estilo :)
+
+ Soy muy malo para esto, como le cambio el nivel de juego? ³
+ÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÙ
+
+  De tanto tiempo que vas a estar tratando de ganarle vas a aprender.
+
+ Soy muy bueno para esto, como le cambio el nivel de juego? ³
+ÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÙ
+
+  Avisame como le jugas!!! ;-)
+
+ La fecha del release fue hace dos a¤os! ³
+ Donde consigo las ultimas versiones?	 ³
+ÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÙ
+
+  Echate una mirada a http://gtheler.home.ml.org/3x3.html (si todavia existe
+  la web... ;-))
+
+ Porque estoy preguntando tanto? ³
+ÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÙ
+
+  No se! Yo solo respondo!!
+
+Un poco de historia:
+-=-=-=-=-=-=-=-=-=-=
+
+Version 0.1
+	Primera version
+
+Version 0.2
+	Primer release publico
+
+	    + Menu
+	    + Opciones
+	    + 2 players
+	    + Keyfile
+	    + Frases nuevas
+
+Version 0.3
+	La version que tenes en tu poder
+
+	    + Fades
+	    = Ligero cambio en el estilo de juego
+
+Queres contactarme?
+-=-=-=-=-=--=-=-=-=
+
+     E-Mail: german@linuxfreak.com
+	WWW: http://kuroshivo.bizland.com
+    FidoNet: 4:905/210
