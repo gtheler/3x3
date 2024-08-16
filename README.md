@@ -59,3 +59,21 @@ Z:> C:
 C:> 3x3
 ```
 
+## How to play
+
+The playground is mapped to the layout of the numerical keypad:
+
+```
++---+---+---+
+| 7 | 8 | 9 |
++---+---+---+
+| 4 | 5 | 6 |
++---+---+---+
+| 1 | 2 | 3 |
++---+---+---+
+```
+
+By default you play with yellow crosses (you can change this in the "Game options" section in the main menu).
+When it is your turn, press the number that corresponds to the square you want to put your cross in.
+To go back to the main menu, press `Esc`.
+
